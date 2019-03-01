@@ -3,15 +3,26 @@
 @import "main";
 // All custom CSS should be written below
 
+html {
+ min-height: 100vh; /* will cover the 100% of viewport */
+ //overflow: hidden;
+ display: block;
+ position: relative;
+ //padding-bottom: 100px; /* height of your footer */
+}
 
-
-body {
+ body {
   font-family: 'Open Sans', sans-serif;
+  background-color: #f2f2f2;
+  min-height: 100vh;
+  position: relative;
 }
 
 .page-title {
   padding-top: 1em;
+  padding-bottom: .5em;
 }
+
 
 h1 {
   font-weight: 700;
@@ -38,6 +49,8 @@ a:hover {
   //-webkit-transition: all 600ms cubic-bezier(0.23, 1, 0.32, 1);
   //transition:         all 600ms cubic-bezier(0.23, 1, 0.32, 1);
 }
+
+
 //------------------- Navigation ------------------- /
 
 .navbar {
@@ -59,19 +72,43 @@ a:hover {
   background-color: #ffcd00;
 }
 
-
-//------------------ Home Page -------------------/
+.content-centered {
+  text-align: center;
+}
+//------------------ Home Page -------------------//
 
 .jumbotron {
 //  padding-left: 10em;
-  background-color: #fff;
+  background-color: #f2f2f2;
 }
 
-//------------------- Footer ---------------------/
+//------------------ Members --------------------//
+
+.member-profile {
+  font-size: .9em;
+}
+
+.img-responsive {
+  width: 100%;
+  height: auto;
+  padding-bottom: 1em;
+
+}
+
+//------------------ Publications --------------------//
+
+.publication {
+  font-size: 1em;
+}
+
+//------------------- Footer ---------------------//
 
 footer {
-  background-color: #fff;
-//  padding: 1em;
+  background-color: #f2f2f2;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  padding-top: 1em;
 }
 
 .footer-text {

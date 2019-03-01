@@ -1,0 +1,27 @@
+- name: Mark Herzik, Ph.D.
+  position: Principal Investigator
+  program: Assistant Professor
+  department: Department of Chemistry and Biochemistry at UCSD
+  email: mherzik(at)ucsd.edu
+  image: /assets/img/members/mark-herzik.jpg
+  orcid: https://orcid.org/0000-0001-6653-6682
+  pubmed: https://www.ncbi.nlm.nih.gov/pubmed/?term=Herzik%20MA%5BAuthor%5D&cauthor=true&cauthor_uid=28991891
+  twitter:
+  description: "Here are some things about Mark and some more things just to see what
+                it looks like with this much content."
+
+- name: Hoang Nguyen
+  position: Graduate Student
+  program:
+  image: /assets/img/members/hoang-nguyen.png
+  orcid:
+  pubmed:
+  description:
+
+- name: Newton Herzik
+  position: Scientific Consultant
+  program:
+  image: /assets/img/members/newton.png
+  orcid:
+  pubmed:
+  description:
