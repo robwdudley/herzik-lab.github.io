@@ -1,2 +1,10 @@
-title: "Herzik Lab"
-description: "Hello"
+name: Herzik Lab | UCSD
+description: "This is the official web page for the Mark Herzik Lab at UCSD."
+
+url: "http://herzik-lab.ucsd.edu"
+
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+  parse_block_html: true
