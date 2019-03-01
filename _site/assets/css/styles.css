@@ -1,6 +1,7 @@
 .current {
   color: red; }
 
+<<<<<<< HEAD
 html {
   min-height: 100vh;
   /* will cover the 100% of viewport */
@@ -16,6 +17,13 @@ body {
 .page-title {
   padding-top: 1em;
   padding-bottom: .5em; }
+=======
+body {
+  font-family: 'Open Sans', sans-serif; }
+
+.page-title {
+  padding-top: 1em; }
+>>>>>>> 8a596bf59d05341634253b65f2b3d7d9f65e809d
 
 h1 {
   font-weight: 700;
@@ -50,6 +58,7 @@ a:hover {
   color: #000;
   background-color: #ffcd00; }
 
+<<<<<<< HEAD
 .content-centered {
   text-align: center; }
 
@@ -73,6 +82,13 @@ footer {
   bottom: 0;
   width: 100%;
   padding-top: 1em; }
+=======
+.jumbotron {
+  background-color: #fff; }
+
+footer {
+  background-color: #fff; }
+>>>>>>> 8a596bf59d05341634253b65f2b3d7d9f65e809d
 
 .footer-text {
   font-size: .8em;

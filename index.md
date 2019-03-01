@@ -2,6 +2,7 @@
 title: Herzik Lab | The University of California San Diego
 layout: index
 ---
+
 # Welcome to the Herzik Lab!
   We are part of the [Department of Chemistry and Biochemistry](https://chemistry.ucsd.edu) at The University of California, San Diego.<br>
 
