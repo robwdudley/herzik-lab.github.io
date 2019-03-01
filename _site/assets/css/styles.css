@@ -20,6 +20,7 @@ body {
 h1 {
   font-weight: 700;
   font-size: 42px;
+  -webkit-font-kerning: .5em;
   font-kerning: .5em;
   padding-bottom: 1em; }
 
@@ -27,6 +28,7 @@ p {
   font-size: 1em; }
 
 a {
+  -webkit-text-decoration: underline #ffcd00;
   text-decoration: underline #ffcd00;
   color: #000; }
 
