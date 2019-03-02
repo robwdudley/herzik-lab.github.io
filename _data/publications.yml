@@ -12,3 +12,139 @@
   raw_data: EMPIAR-10249, EMPIAR-10250, EMPIAR-10252
   lab: Lander Lab
   lab_link: http://www.lander-lab.com
+  second_lab:
+  second_lab_link:
+  abstract: "Determining high-resolution structures of biological macromolecules with masses of less than 100 kilodaltons (kDa) has long been a goal of the cryo-electron microscopy (cryo-EM) community. While the Volta Phase Plate has enabled cryo-EM structure determination of biological specimens of this size range, use of this instrumentation is not yet fully automated and can present technical challenges. Here, we show that conventional defocus-based cryo-EM methodologies can be used to determine the high-resolution structures of specimens amassing less than 100 kDa using a transmission electron microscope operating at 200 keV coupled with a direct electron detector. Our ~2.9 Å structure of alcohol dehydrogenase (82 kDa) proves that bound ligands can be resolved with high fidelity, indicating that these methodologies can be used to investigate the molecular details of drug-target interactions. Our ~2.8 Å and ~3.2 Å resolution structures of methemoglobin demonstrate that distinct conformational states can be identified within a dataset for proteins as small as 64 kDa. Furthermore, we provide the first sub-nanometer cryo-EM structure of a protein smaller than 50 kDa."
+
+
+
+- title: A Multi-model Approach to Assessing Local and Global Cryo-EM Map Quality. Structure. 2019
+  citation: Herzik MA Jr., Fraser. JS, Lander, GC
+  equal_contribution: #"*These authors contributed equally"
+  date:
+  image: /assets/img/publications/128561.png
+  pmid: "30449687"
+  pmid_link: https://www.ncbi.nlm.nih.gov/pubmed/30449687
+  pmcid: PMC6365196
+  pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6365196/
+  biorxiv_preprint: "128561"
+  biorxiv_link: https://www.biorxiv.org/content/10.1101/128561v1
+  pdb:
+  emdb:
+  raw_data:
+  lab: Fraser Lab, Lander Lab
+  lab_link:
+  abstract: "There does not currently exist a standardized indicator of how well a cryo-EM-derived model represents the density from which it was generated. We present a straightforward methodology that utilizes freely available tools to generate a suite of independent models and to evaluate their convergence in an EM density. These analyses provide both a quantitative and qualitative assessment of the precision of the models and their representation of the density, respectively, while concurrently providing a platform for assessing both global and local EM map quality. We further use standardized datasets to provide an expected model-model agreement criterion for EM maps reported to be at 5 Å resolution or better. Associating multiple atomic models with a deposited EM map provides a rapid and accessible reporter of convergence, a strong indicator of highly resolved molecular detail, and is an important step toward an FSC-independent assessment of map and model quality."
+
+
+- title: Conformational ensemble of the human TRPV3 ion channel. Nature Communications. 2018.
+  citation: Zubcevic L*, Herzik MA Jr*, Wu M*, Borschel WF, Hirschi M, Song AS, Lander GC, Lee SY.
+  equal_contribution: "*These authors contributed equally"
+  date:
+  image:
+  pmid: "30429472"
+  pmid_link: https://www.ncbi.nlm.nih.gov/pubmed/30429472
+  pmcid: PMC6235889
+  pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235889/
+  biorxiv_preprint: "395616"
+  biorxiv_link: https://www.biorxiv.org/content/10.1101/395616v1
+  pdb: 6MHO, 6MHS, 6MHV, 6MHW, and 6MHX
+  emdb: EMD-9115, EMD-9117, EMD-9119, EMD-9120, and EMD-9121
+  raw_data:
+  lab: Lander Lab
+  lab_link: http://www.lander-lab.com
+  abstract: "Transient receptor potential vanilloid channel 3 (TRPV3), a member of the thermosensitive TRP (thermoTRPV) channels, is activated by warm temperatures and serves as a key regulator of normal skin physiology through the release of pro-inflammatory messengers. Mutations in trpv3 have been identified as the cause of the congenital skin disorder, Olmsted syndrome. Unlike other members of the thermoTRPV channel family, TRPV3 sensitizes upon repeated simulation, yet a lack of structural information about the channel precludes a molecular-level understanding of TRPV3 sensitization and gating. Here, we present the cryo-electron microscopy structures of apo and sensitized human TRPV3, as well as several structures of TRPV3 in the presence of the common thermoTRPV agonist 2-aminoethoxydiphenyl borate (2-APB). Our results show α-to-Φ-helix transitions in the S6 during sensitization, and suggest a critical role for the S4-S5 linker Φ-helix during ligand gating."
+
+
+- title: Cryo-EM structure of a mitochondrial calcium uniporter. Science. 2018
+  citation: Yoo J*, Wu M*, Yin Y, Herzik MA Jr, Lander GC, Lee SY.
+  equal_contribution: "*These authors contributed equally"
+  date:
+  image:
+  pmid: "29954988"
+  pmid_link: https://www.ncbi.nlm.nih.gov/pubmed/29954988
+  pmcid: PMC6155975
+  pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6155975/
+  biorxiv_preprint:
+  biorxiv_link:
+  pdb: 6DT0
+  emdb: EMD-8911
+  raw_data:
+  lab: Lander Lab
+  lab_link: http://www.lander-lab.com
+  abstract: "Calcium transport plays an important role in regulating mitochondrial physiology and pathophysiology. The mitochondrial calcium uniporter (MCU) is a calcium-selective ion channel that is the primary mediator for calcium uptake into the mitochondrial matrix. Here, we present the cryo-electron microscopy structure of the full-length MCU from Neurospora crassa to an overall resolution of ~3.7 angstroms. Our structure reveals a tetrameric architecture, with the soluble and transmembrane domains adopting different symmetric arrangements within the channel. The conserved W-D-Φ-Φ-E-P-V-T-Y sequence motif of MCU pore forms a selectivity filter comprising two acidic rings separated by one helical turn along the central axis of the channel pore. The structure combined with mutagenesis gives insight into the basis of calcium recognition."
+
+- title: Structural and cellular mechanisms of peptidyl-prolyl isomerase Pin1-mediated enhancement of Tissue Factor gene expression, protein half-life, and pro-coagulant activity. Haematologica. 2018
+  citation: Kurakula K, Koenis DS, Herzik MA Jr, Liu Y, Craft JW Jr, van Loenen PB, Vos M, Tran MK, Versteeg HH, Goumans MTH, Ruf W, de Vries CJM, Şen M.
+  equal_contribution: #"*These authors contributed equally"
+  date:
+  image:
+  pmid: "29545340"
+  pmid_link: https://www.ncbi.nlm.nih.gov/pubmed/29545340
+  pmcid: PMC6058786
+  pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6058786
+  biorxiv_preprint:
+  biorxiv_link:
+  pdb:
+  emdb:
+  raw_data:
+  lab:
+  lab_link:
+  abstract: "Tissue Factor is a cell-surface glycoprotein expressed in various cells of the vasculature and is the principal regulator of the blood coagulation cascade and hemostasis. Notably, aberrant expression of Tissue Factor is associated with cardiovascular pathologies such as atherosclerosis and thrombosis. Here, we sought to identify factors that regulate Tissue Factor gene expression and activity. Tissue Factor gene expression is regulated by various transcription factors, including activating protein-1 and nuclear factor-κ B. The peptidyl-prolyl isomerase Pin1 is known to modulate the activity of these two transcription factors, and we now show that Pin1 augments Tissue Factor gene expression in both vascular smooth muscle cells and activated endothelial cells via activating protein-1 and nuclear factor-κ B signaling. Furthermore, the cytoplasmic domain of Tissue Factor contains a well-conserved phospho-Ser258-Pro259 amino-acid motif recognized by Pin1. Using co-immunoprecipitation and solution nuclear magnetic resonance spectroscopy, we show that the WW-domain of Pin1 directly binds the cytoplasmic domain of Tissue Factor. This interaction occurs via the phospho-Ser258-Pro259 sequence in the Tissue Factor cytoplasmic domain and results in increased protein half-life and pro-coagulant activity. Taken together, our results establish Pin1 as an upstream regulator of Tissue Factor-mediated coagulation, thereby opening up new avenues for research into the use of specific Pin1 inhibitors for the treatment of diseases characterized by pathological coagulation, such as thrombosis and atherosclerosis."
+
+
+- title: Cryo-electron microscopy structure of the lysosomal calcium-permeable channel TRPML3. Nature. 2017
+  citation: Hirschi M*, Herzik MA Jr*, Wie J, Suo Y, Borschel WF, Ren D, Lander GC, Lee SY.
+  equal_contribution: "*These authors contributed equally"
+  date:
+  image:
+  pmid: "29019979"
+  pmid_link: https://www.ncbi.nlm.nih.gov/pubmed/29019979
+  pmcid: PMC5762132
+  pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5762132
+  biorxiv_preprint:
+  biorxiv_link:
+  pdb: 5W3S
+  emdb: EMD-8764
+  raw_data:
+  lab:
+  lab_link:
+  abstract: "The modulation of ion channel activity by lipids is increasingly recognized as a fundamental component of cellular signalling. The transient receptor potential mucolipin (TRPML) channel family belongs to the TRP superfamily and is composed of three members: TRPML1-TRPML3. TRPMLs are the major Ca2+-permeable channels on late endosomes and lysosomes (LEL). They regulate the release of Ca2+ from organelles, which is important for various physiological processes, including organelle trafficking and fusion. Loss-of-function mutations in the MCOLN1 gene, which encodes TRPML1, cause the neurodegenerative lysosomal storage disorder mucolipidosis type IV, and a gain-of-function mutation (Ala419Pro) in TRPML3 gives rise to the varitint-waddler (Va) mouse phenotype. Notably, TRPML channels are activated by the low-abundance and LEL-enriched signalling lipid phosphatidylinositol-3,5-bisphosphate (PtdIns(3,5)P2), whereas other phosphoinositides such as PtdIns(4,5)P2, which is enriched in plasma membranes, inhibit TRPMLs. Conserved basic residues at the N terminus of the channel are important for activation by PtdIns(3,5)P2 and inhibition by PtdIns(4,5)P2. However, owing to a lack of structural information, the mechanism by which TRPML channels recognize PtdIns(3,5)P2 and increase their Ca2+ conductance remains unclear. Here we present the cryo-electron microscopy (cryo-EM) structure of a full-length TRPML3 channel from the common marmoset (Callithrix jacchus) at an overall resolution of 2.9 Å. Our structure reveals not only the molecular basis of ion conduction but also the unique architecture of TRPMLs, wherein the voltage sensor-like domain is linked to the pore via a cytosolic domain that we term the mucolipin domain. Combined with functional studies, these data suggest that the mucolipin domain is responsible for PtdIns(3,5)P2 binding and subsequent channel activation, and that it acts as a 'gating pulley' for lipid-dependent TRPML gating."
+
+
+- title: Achieving better-than-3-Å resolution by single-particle cryo-EM at 200 keV. Nature Methods. 2017
+  citation: Herzik MA Jr*, Wu M*, Lander GC
+  equal_contribution: "*These authors contributed equally"
+  date:
+  image:
+  pmid: "28991891"
+  pmid_link: https://www.ncbi.nlm.nih.gov/pubmed/28991891
+  pmcid: PMC5679434
+  pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5679434
+  biorxiv_preprint: "141994"
+  biorxiv_link: https://www.biorxiv.org/content/10.1101/141994v1
+  pdb: 5VY3, 5VY4, 5VY5
+  emdb: EMD-8741, EMD-8742, EMD-8743
+  raw_data: EMPIAR-10181, EMPIAR-10185, EMPIAR-10186
+  lab: Lander Lab
+  lab_link: http://www.lander-lab.com
+  abstract: "Technical and methodological advances in single-particle cryo-electron microscopy (cryo-EM) have expanded the technique into a resolution regime that was previously only attainable by X-ray crystallography. Although single-particle cryo-EM has proven to be a useful technique for determining the structures of biomedically relevant molecules at near-atomic resolution, nearly 98% of the structures resolved to better than 4 Å resolution have been determined using 300 keV transmission electron microscopes (TEMs). We demonstrate that it is possible to obtain cryo-EM reconstructions of macromolecular complexes at a range of sizes to better than 3 Å resolution using a 200 keV TEM. These structures are of sufficient quality to unambiguously assign amino acid rotameric conformations and identify ordered water molecules, features previously thought only to be resolvable using TEMs operating at 300 keV."
+
+
+- title: Regulation of nitric oxide signaling by formation of a distal receptor-ligand complex. Nature Chemical Biology. 2017
+  citation: Guo Y, Suess DLM, Herzik MA Jr, Iavarone AT, Britt RD, Marletta MA.
+  equal_contribution: #"*These authors contributed equally"
+  date:
+  image:
+  pmid: "28967923"
+  pmid_link: https://www.ncbi.nlm.nih.gov/pubmed/28967923
+  pmcid: PMC5698159
+  pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5698159
+  biorxiv_preprint:
+  biorxiv_link:
+  pdb:
+  emdb:
+  raw_data:
+  lab: Marletta Lab
+  lab_link: https://www.marlettalab.org/
+  abstract: "The binding of nitric oxide (NO) to the heme cofactor of heme-nitric oxide/oxygen binding (H-NOX) proteins can lead to the dissociation of the heme-ligating histidine residue and yield a five-coordinate nitrosyl complex, an important step for NO-dependent signaling. In the five-coordinate nitrosyl complex, NO can reside on either the distal or proximal side of the heme, which could have a profound influence over the lifetime of the in vivo signal. To investigate this central molecular question, we characterized the Shewanella oneidensis H-NOX (So H-NOX)-NO complex biophysically under limiting and excess NO conditions. The results show that So H-NOX preferably forms a distal NO species with both limiting and excess NO. Therefore, signal strength and complex lifetime in vivo will be dictated by the dissociation rate of NO from the distal complex and the rebinding of the histidine ligand to the heme."

@@ -24,30 +24,32 @@ layout: default
     </div>
     <div class="col-md-8">
       {% if publication.image %}
-        {{ publiaction.image }}
+        <img src="{{ publication.image }}" class="img-responsive"><br>
       {% endif %}
       <h4><strong>{{ publication.title }}</strong></h4><br>
-      {{ publication.citation }}<br>
+      <div class="citation-spacing">{{ publication.citation }}<br>
       {% if publication.equal_contribution %}
-        <p style="font-size: .8em; color: gray;">{{ publication.equal_contribution }}</p>
+        <div style="font-size: .8em; color: gray;">{{ publication.equal_contribution }}</div>
+      {% endif %} </div>
+      {% if publication.abstract %}
+        <strong>Abstract</strong><br>
+        {{ publication.abstract }}
       {% endif %}
     </div>
     <div class="col-md-2">
     </div>
   </div>
-  <div class="row" style="padding-top: 1em;">
+  <div class="row" style="padding-top: 2em;">
     <div class="col-md-2">
     </div>
     <div class="col-md-4">
       <p><strong>Access the Paper</strong></p>
         <ul style="color: gray;">
           <li>PMID: {{ publication.pmid }}</li>
-          <li>PMCID: {{ publication.pmcid }}</li>
-          <li>
+          <li>PMCID: {{ publication.pmcid }}</li>  
             {% if publication.biorxiv_preprint %}
-              Biorxiv Preprint: <a href="{{ publication.biorxiv_link }}">{{ publication.biorxiv_preprint }}</a>
+          <li>    Biorxiv Preprint: <a href="{{ publication.biorxiv_link }}">{{ publication.biorxiv_preprint }}</a></li>
             {% endif %}
-          </li>
         </ul>
     </div>
     <div class="col-md-4">
@@ -55,16 +57,12 @@ layout: default
         <ul style="color: gray">
           <li>PDBs: {{ publication.pdb }} </li>
           <li>EMDBs: {{ publication.emdb }} </li>
-          <li>
             {% if publication.raw_data %}
-              Raw Data: {{ publication.raw_data }}
-            {% endif %}
-           </li>
-          <li>
+          <li>    Raw Data: {{ publication.raw_data }}</li>
+            {% endif %}     
             {% if publication.lab %}
-              Lab: <a href="{{ publication.lab_link }}">{{ publication.lab }}</a>
+          <li>Lab: <a href="{{ publication.lab_link }}">{{ publication.lab }}</a></li>
             {% endif %}
-          </li>
         </ul>
     </div>
     <div class="col-md-2">
