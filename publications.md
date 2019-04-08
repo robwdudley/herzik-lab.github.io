@@ -63,6 +63,12 @@ layout: default
             {% if publication.lab %}
           <li>Lab: <a href="{{ publication.lab_link }}">{{ publication.lab }}</a></li>
             {% endif %}
+            {% if publication.second_lab %}
+              <li>Lab: <a href="{{ publication.second_lab_link }}">{{ publication.second_lab }}</a></li>
+            {% endif %}
+            {% if publication.third_lab %}
+              <li>Lab: <a href="{{ publication.third_lab_link }}">{{ publication.third_lab }}</a></li>
+            {% endif %}
         </ul>
     </div>
     <div class="col-md-2">
