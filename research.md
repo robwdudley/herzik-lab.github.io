@@ -2,6 +2,7 @@
 title: Research | Herzik Lab
 layout: default
 ---
+<<<<<<< HEAD
 
 <div class="container">
  <div class="row">
@@ -16,3 +17,5 @@ layout: default
    </div>
  </div>
 </div>
+=======
+>>>>>>> parent of a1e7418... added content to research page
