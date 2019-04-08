@@ -14,7 +14,7 @@ layout: default
           University of California, San Diego<br>
           9500 Gilman Drive MC 0314<br>
           La Jolla, CA 92093<br>
-          mherzik@ucsd.edu<br>
+        <a href="mailto:mherzik@ucsd.edu">mherzik@ucsd.edu</a><br>
       </p>
     </div>
   </div>
