@@ -20,7 +20,7 @@ layout: default
 
 {% for person in site.data.member %}
 <hr style="padding-top: 1em;">
-<div class="container member-profile" style="padding-bottom: 1em;">
+<div class="container member-profile" style="margin-bottom: 1em;">
   <div class="row">
     <div class="col-md-2">
     </div>
