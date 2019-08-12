@@ -3,26 +3,50 @@
   program: Assistant Professor
   department: Department of Chemistry and Biochemistry at UCSD
   email: mherzik(at)ucsd.edu
-  image: /assets/img/members/mark-herzik.jpg
+  image: /assets/img/members/herzik-mark.sq.png
   orcid: https://orcid.org/0000-0001-6653-6682
   pubmed: https://www.ncbi.nlm.nih.gov/pubmed/?term=Herzik%20MA%5BAuthor%5D&cauthor=true&cauthor_uid=28991891
   twitter:
-  description: "Here are some things about Mark and some more things just to see what
-                it looks like with this much content."
+  description: "Structural biologist perfecting his EM craft. Interested in the molecular underpinnings governing protein allostery and molecular transport."
 
 - name: Hoang Nguyen
-  position: Graduate Student
+  position: Graduate Student and Structural Biologist in training
   program: Chemistry and Biochemistry Graduate Program
   email: hon005(at)ucsd.edu
-  image: /assets/img/members/hoang-nguyen.png
+  image: /assets/img/members/hoang-nguyen.sq.png
   orcid:
   pubmed:
-  description:
+  description: "Using cryo-EM and hydrogen-deuterium exchange by mass spectrometry (HDX-MS) to investigate receptor plasticity and allostery."
+
+- name: Angel Payan
+  position: Graduate Student and Structural Biologist in training
+  program: Chemistry and Biochemistry Graduate Program
+  email: anpayan(at)ucsd.edu
+  image: /assets/img/members/payan-angel.sq.png
+  orcid:
+  pubmed:
+  description: "Using molecular dynamics and novel cryo-EM methodologies to better understand protein conformational dynamics."
+
+- name: Nael Mousa
+  position: Undergraduate Student
+  program: Chemistry and Biochemistry
+  image: /assets/img/members/mousa-nael.sq.png
+  orcid:
+  pubmed:
+  description: "Using cryo-EM to understand post-translations modifications and their role in regulating protein biogenesis."
+
+- name: Kendrick Nguyen
+  position: Undergraduate Student
+  program: Chemistry and Biochemistry
+  image: /assets/img/members/nguyen-kendrick.sq.png
+  orcid:
+  pubmed:
+  description: "Using cryo-EM and hydrogen-deuterium exchange by mass spectrometry (HDX-MS) to understand receptor specificty."
 
 - name: Newton Herzik
   position: Scientific Consultant
-  program:
-  image: /assets/img/members/newton.png
+  program: Chemistry and Biochemistry
+  image: /assets/img/members/herzik-newton.sq.png
   orcid:
   pubmed:
-  description:
+  description: "Aiding in the development of high-throughput high-resolution cryo-EM methodologies."
