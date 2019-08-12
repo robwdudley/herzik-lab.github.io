@@ -11,4 +11,4 @@ layout: index
   innovative biophysical and structural methodologies, including electron cryomicroscopy (cryo-EM),
   to provide an atomic-level understanding of the structure and dynamics that govern these complex biological processes.
 
-  We are located in the 4th floor of the [Natural Sciences Building at UCSD](https://m.ucsd.edu/maps/search?query=natural+sciences+building).
+  We are located in the 4th floor of the [Natural Sciences Building](https://m.ucsd.edu/maps/search?query=natural+sciences+building) at UCSD.
