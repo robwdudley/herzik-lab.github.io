@@ -3,6 +3,8 @@ title: Herzik Lab | The University of California San Diego
 layout: index
 ---
 
+<img class="img-responsive center-block" src="/assets/img/aldolase banner.png" alt="raw to model">
+
 # Welcome to the Herzik Lab!
   We are part of the [Department of Chemistry and Biochemistry](https://chemistry.ucsd.edu) at [The University of California, San Diego](https://ucsd.edu).<br>
 
