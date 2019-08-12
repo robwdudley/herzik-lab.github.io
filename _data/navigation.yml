@@ -1,9 +1,9 @@
 - name: Research
   link: /research.html
-- name: Publications
-  link: /publications.html
 - name: Members
   link: /members.html
+- name: Publications
+  link: /publications.html
 - name: Join
   link: /join.html
 - name: Contact
