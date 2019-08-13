@@ -8,9 +8,9 @@
   biorxiv_preprint: "489898"
   biorxiv_link: https://www.biorxiv.org/content/10.1101/489898v1
   models: 
-    6NBB
-    6NBC
-    6NBD
+    "6NBB"
+    "6NBC"
+    "6NBD"
   maps:
     -emd: 0406
     -emd: 0407
