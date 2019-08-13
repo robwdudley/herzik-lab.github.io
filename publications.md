@@ -28,6 +28,7 @@ layout: default
       {% endif %}
       <h4><strong><em>{{ publication.title }}</em></strong></h4><br>
       {{ publication.journal }}
+      {{ publication.date }}
       <div class="citation-spacing">{{ publication.citation }}<br>
       {% if publication.equal_contribution %}
         <div style="font-size: .8em; color: gray;">{{ publication.equal_contribution }}</div>
