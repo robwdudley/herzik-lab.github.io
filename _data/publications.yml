@@ -1,5 +1,5 @@
-- title: 'High-resolution structure determination of sub-100 kDa complexes using conventional cryo-EM. *Nature Communications* 2019'
-  citation: '**Herzik MA. Jr.**\*, Wu M\*, Lander GC.'
+- title: High-resolution structure determination of sub-100 kDa complexes using conventional cryo-EM. Nature Communications 2019
+  citation: Herzik MA. Jr.*, Wu M*, Lander GC.
   equal_contribution: "*These authors contributed equally"
   date:
   image:
@@ -37,7 +37,7 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6365196/
   biorxiv_preprint: "128561"
   biorxiv_link: https://www.biorxiv.org/content/10.1101/128561v1
-  pdb: , 
+  pdb:
   emdb:
   raw_data:
   lab: Fraser Lab
