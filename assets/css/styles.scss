@@ -110,7 +110,10 @@ a:hover {
 
 .publication {
   font-size: 1em;
-  padding-bottom: -1em;
+}
+
+.paper-title {
+ padding-bottom: none;
 }
 
 .journal-title {
