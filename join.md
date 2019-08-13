@@ -1,6 +1,6 @@
 ---
 title: Join | Herzik Lab
-layout: default
+layout: join
 ---
 # Join
 
