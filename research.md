@@ -2,6 +2,7 @@
 title: Research | Herzik Lab
 layout: default
 ---
+<img class="img-responsive center-block" src="/assets/img/tweezer grid.png" alt="EM">
 
 <div class="container">
  <div class="row">
