@@ -2,6 +2,7 @@
   position: Principal Investigator
   program: Assistant Professor
   department: Department of Chemistry and Biochemistry at UCSD
+  funding:
   email: mherzik(at)ucsd.edu
   image: /assets/img/members/herzik-mark.sq.png
   orcid: https://orcid.org/0000-0001-6653-6682
@@ -12,6 +13,7 @@
 - name: Hoang Nguyen
   position: Graduate Student and Structural Biologist in training
   program: Chemistry and Biochemistry Graduate Program
+  funding: UCSD NIH Molecular Biophysics Training Grant
   email: hon005(at)ucsd.edu
   image: /assets/img/members/hoang-nguyen.sq.png
   orcid:
@@ -21,6 +23,7 @@
 - name: Angel Payan
   position: Graduate Student and Structural Biologist in training
   program: Chemistry and Biochemistry Graduate Program
+  funding: UCSD NIH Molecular Biophysics Training Grant
   email: anpayan(at)ucsd.edu
   image: /assets/img/members/payan-angel.sq.png
   orcid:
@@ -30,6 +33,7 @@
 - name: Nael Mousa
   position: Undergraduate Student
   program: Chemistry and Biochemistry
+  funding:
   image: /assets/img/members/mousa-nael.sq.png
   orcid:
   pubmed:
@@ -38,6 +42,7 @@
 - name: Kendrick Nguyen
   position: Undergraduate Student
   program: Chemistry and Biochemistry
+  funding:
   image: /assets/img/members/nguyen-kendrick.sq.png
   orcid:
   pubmed:
