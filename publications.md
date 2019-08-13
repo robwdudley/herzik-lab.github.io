@@ -15,7 +15,7 @@ layout: default
 </div>
 
 
-{% for publication in site.data.publications %}
+{% for publication in site.data.publications | sort: date %}
 
 <hr style="padding-top: 1em;">
 <div class="container publication">
@@ -45,18 +45,30 @@ layout: default
     <div class="col-md-4">
       <p><strong>Access the Paper</strong></p>
         <ul style="color: gray;">
-          <li>PMID: {{ publication.pmid }}</li>
-          <li>PMCID: {{ publication.pmcid }}</li>  
-            {% if publication.biorxiv_preprint %}
-          <li>    Biorxiv Preprint: <a href="{{ publication.biorxiv_link }}">{{ publication.biorxiv_preprint }}</a></li>
-            {% endif %}
+          {% if publication.pmid %}
+          <li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a></li>
+          {% else %}
+          <li>PMID: Submitted</li>
+          {% endif %} 
+          {% if publication.pmcid %}
+          <li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a></li>  
+          {% else %}
+          <li>PMCID: Submitted</li>
+          {% endif %}
+          {% if publication.biorxiv_preprint %}
+          <li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv}}</a></li>
+          {% endif %}
         </ul>
     </div>
     <div class="col-md-4">
       <p><strong>Additional Links</strong></p>
         <ul style="color: gray">
-          <li>PDBs: {{ publication.pdb }} </li>
-          <li>EMDBs: {{ publication.emdb }} </li>
+          {% if publication.pdb %}
+          <li>PDBs: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{ publication.pdb }}">{{ publication.pdb }}</a> </li>
+          {% endif %}
+          {% if publication.emdb %}
+          <li>EMDBs: <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/EMD-{{ publication.emdb }}"{{ publication.emdb }}</a> </li>
+          {% endif %}
             {% if publication.raw_data %}
           <li>    Raw Data: {{ publication.raw_data }}</li>
             {% endif %}     
