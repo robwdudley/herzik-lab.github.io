@@ -55,8 +55,8 @@ layout: default
         <ul style="color: gray;">
           {% if publication.pmid %}
           <li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a></li>
-        <!--  {% else %}
-          <li>PMID: Submitted</li> -->
+          {% else %}
+          <li>PMID: Submitted</li> 
           {% endif %} 
           {% if publication.pmcid %}
           <li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a></li>  
