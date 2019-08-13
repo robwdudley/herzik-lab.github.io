@@ -28,6 +28,8 @@ layout: default
       {% if person.image %}
         <img src="{{ person.image }}" class="img-responsive">
       {% endif %}
+    </div>
+    <div class="col-md-4">
     <strong>{{ person.name }}</strong><br>
       {{ person.position }}<br>
       {% if person.program %}
@@ -43,8 +45,6 @@ layout: default
       {% if person.pubmed %}
         <a href="{{ person.pubmed }}">PubMed Citations</a><br>
       {% endif %}
-    </div>
-    <div class="col-md-4">
       {% if person.description %}
         {{ person.description }}
       {% endif %}
