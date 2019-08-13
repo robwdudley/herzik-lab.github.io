@@ -8,13 +8,13 @@
   biorxiv_preprint: "489898"
   biorxiv_link: https://www.biorxiv.org/content/10.1101/489898v1
   models: 
-    "6NBB"
-    "6NBC"
-    "6NBD"
+    - pdb: 6NBB
+    - pdb: 6NBC
+    - pdb: 6NBD
   maps:
-    -emd: 0406
-    -emd: 0407
-    -emd: 0408
+    - emd: 0406
+    - emd: 0407
+    - emd: 0408
   raw_data: EMPIAR-10249, EMPIAR-10250, EMPIAR-10252
   lab: Lander Lab
   lab_link: http://www.lander-lab.com
