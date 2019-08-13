@@ -60,7 +60,7 @@ layout: default
           <li>PMCID: Submitted</li>
           {% endif %}
           {% if publication.biorxiv_preprint %}
-          <li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv}}</a></li>
+          <li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv_preprint}}" alt = "biorxiv preprint link: {{publication.biorxiv_preprint}}"> {{publication.biorxiv_preprint}}</a></li>
           {% endif %}
         </ul>
     </div>
