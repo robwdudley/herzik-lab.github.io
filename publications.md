@@ -32,7 +32,7 @@ layout: default
         <div style="font-size: .8em; color: gray;">{{ publication.equal_contribution }}</div>
       {% endif %} </div>
       {% if publication.abstract %}
-        <strong>Abstract</strong><br>
+        <div class="abstract-text"><strong>Abstract</strong><div><br>
         {{ publication.abstract }}
       {% endif %}
     </div>
