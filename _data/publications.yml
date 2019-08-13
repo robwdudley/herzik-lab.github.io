@@ -12,9 +12,9 @@
     - pdb: 6NBC
     - pdb: 6NBD
   maps:
-    - emd: 0406
-    - emd: 0407
-    - emd: 0408
+    - emd: "0406"
+    - emd: "0407"
+    - emd: "0408"
   raw_data: EMPIAR-10249, EMPIAR-10250, EMPIAR-10252
   lab: Lander Lab
   lab_link: http://www.lander-lab.com
