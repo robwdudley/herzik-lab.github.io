@@ -38,6 +38,9 @@ layout: default
       {% if person.department %}
         {{ person.department }}<br>
       {% endif %}
+      {% if person.funding %}
+        {{ person.funding }}<br>
+      {% endif %}
       <em>{{ person.email }}</em><br>
       {% if person.orcid %}
         <a href="{{person.orcid}}"> {{person.orcid}}</a> <br>
