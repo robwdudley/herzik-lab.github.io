@@ -66,14 +66,14 @@ layout: default
       <p><strong>Additional Links</strong></p>
         <ul style="color: gray">
           {% if publication.models %}
-          <li>PDBs: {% if publications.models.size > 1 %}s{% endif %}:
+          <li>PDBs{% if publications.models.size > 1 %}s{% endif %}:
               {% for code in publication.models %}
               <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{code}}">{{code}}</a>{% unless forloop.last %}, {% endunless %}
               {% endfor %}
           </li>
           {% endif %}
           {% if publication.maps %}
-          <li>EMDBs: {% if publication.maps.size > 1 %}s{% endif %}:
+          <li>EMDBs{% if publication.maps.size > 1 %}s{% endif %}:
             {% for code in publication.maps %}
             <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/EMD-{{code}}">{{code}}</a>{% unless forloop.last %}, {% endunless %}
             {% endfor %}
