@@ -27,7 +27,9 @@ layout: default
         <img src="{{ publication.image }}" class="img-responsive"><br>
       {% endif %}
       <h4><strong><em>{{ publication.title }}</em></strong></h4><br>
-      <em>{{ publication.journal }}</em>
+      <div class="journal-title">
+        <em>{{ publication.journal }}</em>
+      </div>
       {{ publication.date }}
       <div class="citation-spacing">{{ publication.authors }}<br>
       {% if publication.equal_contribution %}
