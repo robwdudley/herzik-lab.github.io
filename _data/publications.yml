@@ -7,8 +7,14 @@
   pmcid: Accepted
   biorxiv_preprint: "489898"
   biorxiv_link: https://www.biorxiv.org/content/10.1101/489898v1
-  pdb: 6NBB, 6NBC, 6NBD
-  emdb: EMD-0406, EMD-0407, EMD-0408
+  models: 
+    -pdb: 6NBB
+    -pdb: 6NBC
+    -pdb: 6NBD
+  maps:
+    -emd: 0406
+    -emd: 0407
+    -emd: 0408
   raw_data: EMPIAR-10249, EMPIAR-10250, EMPIAR-10252
   lab: Lander Lab
   lab_link: http://www.lander-lab.com
@@ -31,7 +37,7 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6365196/
   biorxiv_preprint: "128561"
   biorxiv_link: https://www.biorxiv.org/content/10.1101/128561v1
-  pdb:
+  pdb: , 
   emdb:
   raw_data:
   lab: Fraser Lab
