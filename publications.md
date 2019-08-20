@@ -105,5 +105,4 @@ layout: default
        </div>
     </div>
   </div>
-</div>
 {% endfor %}
