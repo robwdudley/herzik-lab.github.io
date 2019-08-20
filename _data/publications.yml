@@ -11,8 +11,8 @@
   biorxiv_preprint: "489898"
   biorxiv_link: https://www.biorxiv.org/content/10.1101/489898v1
   pdb1: 6NBB
-    - pdb2: 6NBC
-    - pdb3: 6NBD
+  pdb2: 6NBC
+  pdb3: 6NBD
   emd1: EMD-0406
   emd2: EMD-0407
   emd3: EMD-0408
