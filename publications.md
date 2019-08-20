@@ -116,7 +116,6 @@ layout: default
                     {% else %}
                     {% if publication.raw_data3 %}
                         <li>Raw Data: <a https://www.ebi.ac.uk/pdbe/emdb/empiar/entry/{{publication.raw_data1}}">{{publication.raw_data1}}</a>, <a https://www.ebi.ac.uk/pdbe/emdb/empiar/entry/{{publication.raw_data2}}">{{publication.raw_data2}}</a>, <a https://www.ebi.ac.uk/pdbe/emdb/empiar/entry/{{publication.raw_data3}}">{{publication.raw_data3}}</a></li>
-                    {% else %}
                     {% endif %}
                     {% if publication.lab %}
                         <li><a href="{{ publication.lab_link }}">{{ publication.lab }}</a></li>
