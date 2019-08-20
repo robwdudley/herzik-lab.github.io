@@ -133,5 +133,3 @@ layout: default
         </div>
   </div>
 </div>
-
-{% endfor %}
