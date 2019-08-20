@@ -98,8 +98,8 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6155975/
   biorxiv_preprint:
   biorxiv_link:
-  pdb1: 6DT0
-  emdb1: EMD-8911
+  pdb: 6DT0
+  emdb: EMD-8911
   raw_data:
   lab: Lander Lab
   lab_link: http://www.lander-lab.com
@@ -145,8 +145,8 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5762132/
   biorxiv_preprint:
   biorxiv_link:
-  pdb1: 5W3S
-  emdb1: EMD-8764
+  pdb: 5W3S
+  emdb: EMD-8764
   raw_data:
   lab: Lander Lab
   lab_link: http://www.lander-lab.com/
@@ -246,8 +246,8 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4876856/
   biorxiv_preprint:
   biorxiv_link:
-  pdb1: 5AN8
-  emdb1: EMD-6455
+  pdb: 5AN8
+  emdb: EMD-6455
   raw_data:
   lab: Lander Lab
   lab_link: https://www.lander-lab.com
@@ -270,8 +270,8 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4749569/
   biorxiv_preprint:
   biorxiv_link:
-  pdb1: 3JCK
-  emdb1: EMD-6479
+  pdb: 3JCK
+  emdb: EMD-6479
   raw_data:
   lab: Lander Lab
   lab_link: https://www.lander-lab.com
@@ -350,7 +350,7 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2903878/
   biorxiv_preprint:
   biorxiv_link:
-  pdb1: 3MVC
+  pdb: 3MVC
   emdb:
   raw_data:
   lab: Marletta Lab
