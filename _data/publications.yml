@@ -13,12 +13,12 @@
   pdb1: 6NBB
   pdb2: 6NBC
   pdb3: 6NBD
-  emd1: EMD-0406
-  emd2: EMD-0407
-  emd3: EMD-0408
-  raw_data1: EMPIAR-10249
-  raw_data2: EMPIAR-10250
-  raw_data3: EMPIAR-10252
+  emdb1: EMD-0406
+  emdb2: EMD-0407
+  emdb3: EMD-0408
+  raw_data1: 10249
+  raw_data2: 10250
+  raw_data3: 10252
   lab: Lander Lab
   lab_link: http://www.lander-lab.com
   second_lab:
@@ -175,9 +175,9 @@
   emdb1: EMD-8741
   emdb2: EMD-8742
   emdb3: EMD-8743
-  raw_data1: EMPIAR-10181
-  raw_data2: EMPIAR-10185
-  raw_data3: EMPIAR-10186
+  raw_data1: 10181
+  raw_data2: 10185
+  raw_data3: 10186
   lab: Lander Lab
   lab_link: http://www.lander-lab.com
   second_lab:
