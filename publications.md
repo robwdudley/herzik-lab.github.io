@@ -84,14 +84,11 @@ layout: default
                     {% if publication.emdb1 %}
                         <li>EMDB: <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb1}}">{{publication.emdb1}}</a></li>
                     {% else %}
-                    {% if publication.emdb2 %}
+                    {% publication.emdb2 %}
                         <li>EMDBs: <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb1}}">{{publication.emdb1}}</a>, <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb2}}">{{publication.emdb2}}</a>, <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb3}}">{{publication.emdb3}}</a>, <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb4}}">{{publication.emdb4}}</a>, <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb5}}">{{publication.emdb5}}</a></li>
                     {% endif %}
-                    {% if publication.raw_data1 %}
-                        <li>Raw Data: <a href="https://www.ebi.ac.uk/pdbe/emdb/empiar/entry/{{publication.raw_data1}}">{{publication.raw_data1}}</a></li>
-                    {% else %}  
-                    {% if publication.raw_data2 %}
-                        <li>Raw Data: <a href="https://www.ebi.ac.uk/pdbe/emdb/empiar/entry/{{publication.raw_data1}}">{{publication.raw_data1}}</a>, <a href="https://www.ebi.ac.uk/pdbe/emdb/empiar/entry/{{publication.raw_data2}}">{{publication.raw_data2}}</a></li>
+                    {% if publication.raw_data %}
+                        <li>Raw Data: <a href="https://www.ebi.ac.uk/pdbe/emdb/empiar/entry/{{publication.raw_data}}">{{publication.raw_data1}}</a></li>
                     {% else %}
                     {% if publication.raw_data3 %}
                         <li>Raw Data: <a href="https://www.ebi.ac.uk/pdbe/emdb/empiar/entry/{{publication.raw_data1}}">{{publication.raw_data1}}</a>, <a href="https://www.ebi.ac.uk/pdbe/emdb/empiar/entry/{{publication.raw_data2}}">{{publication.raw_data2}}</a>, <a href="https://www.ebi.ac.uk/pdbe/emdb/empiar/entry/{{publication.raw_data3}}">{{publication.raw_data3}}</a></li>
