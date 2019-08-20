@@ -78,7 +78,7 @@ layout: default
                     {% if publication.pdb %}
                         <li>PDB: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb}}">{{publication.pdb}}</a></li>
                     {% else %}
-                    {% if publication.pdb2 %}
+                    {% publication.pdb2 %}
                         <li>PDBs: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb1}}">{{publication.pdb1}}</a>, <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb2}}">{{publication.pdb2}}</a>, <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb3}}">{{publication.pdb3}}</a>, <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb4}}">{{publication.pdb4}}</a>, <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb5}}">{{publication.pdb5}}</a>, <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb6}}">{{publication.pdb6}}</a></li>
                     {% endif %}
                     {% if publication.emdb %}
@@ -90,7 +90,7 @@ layout: default
                     {% if publication.raw_data %}
                         <li>Raw Data: <a href="https://www.ebi.ac.uk/pdbe/emdb/empiar/entry/{{publication.raw_data}}">{{publication.raw_data1}}</a></li>
                     {% else %}
-                    {% if publication.raw_data3 %}
+                    {% publication.raw_data3 %}
                         <li>Raw Data: <a href="https://www.ebi.ac.uk/pdbe/emdb/empiar/entry/{{publication.raw_data1}}">{{publication.raw_data1}}</a>, <a href="https://www.ebi.ac.uk/pdbe/emdb/empiar/entry/{{publication.raw_data2}}">{{publication.raw_data2}}</a>, <a href="https://www.ebi.ac.uk/pdbe/emdb/empiar/entry/{{publication.raw_data3}}">{{publication.raw_data3}}</a></li>
                     {% endif %}
                     {% if publication.lab %}
