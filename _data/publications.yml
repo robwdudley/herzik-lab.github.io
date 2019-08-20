@@ -4,19 +4,21 @@
   authors: Herzik MA. Jr.*, Wu M*, Lander GC.
   equal_contribution: "*These authors contributed equally"
   image:
-  pmid: 
-  pmcid: 
+  pmid: "30833564"
+  pmid_link: https://www.ncbi.nlm.nih.gov/pubmed/30833564
+  pmcid: PMC6399227
+  pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6399227/
   biorxiv_preprint: "489898"
   biorxiv_link: https://www.biorxiv.org/content/10.1101/489898v1
-  models: 
-    - pdb: 6NBB
-    - pdb: 6NBC
-    - pdb: 6NBD
-  maps:
-    - emd: "0406"
-    - emd: "0407"
-    - emd: "0408"
-  raw_data: EMPIAR-10249, EMPIAR-10250, EMPIAR-10252
+  pdb1: 6NBB
+    - pdb2: 6NBC
+    - pdb3: 6NBD
+  emd1: EMD-0406
+  emd2: EMD-0407
+  emd3: EMD-0408
+  raw_data1: EMPIAR-10249
+  raw_data2: EMPIAR-10250
+  raw_data3: EMPIAR-10252
   lab: Lander Lab
   lab_link: http://www.lander-lab.com
   second_lab:
@@ -64,8 +66,16 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235889/
   biorxiv_preprint: "395616"
   biorxiv_link: https://www.biorxiv.org/content/10.1101/395616v1
-  pdb: 6MHO, 6MHS, 6MHV, 6MHW, and 6MHX
-  emdb: EMD-9115, EMD-9117, EMD-9119, EMD-9120, and EMD-9121
+  pdb1: 6MHO
+  pdb2: 6MHS
+  pdb3: 6MHV
+  pdb4: 6MHW
+  pdb5: 6MHX
+  emdb1: EMD-9115
+  emdb2: EMD-9117
+  emdb3: EMD-9119
+  emdb4: EMD-9120
+  emdb5: EMD-9121
   raw_data:
   lab: Lander Lab
   lab_link: http://www.lander-lab.com
@@ -88,8 +98,8 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6155975/
   biorxiv_preprint:
   biorxiv_link:
-  pdb: 6DT0
-  emdb: EMD-8911
+  pdb1: 6DT0
+  emdb1: EMD-8911
   raw_data:
   lab: Lander Lab
   lab_link: http://www.lander-lab.com
@@ -135,8 +145,8 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5762132/
   biorxiv_preprint:
   biorxiv_link:
-  pdb: 5W3S
-  emdb: EMD-8764
+  pdb1: 5W3S
+  emdb1: EMD-8764
   raw_data:
   lab: Lander Lab
   lab_link: http://www.lander-lab.com/
@@ -159,9 +169,15 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5679434/
   biorxiv_preprint: "141994"
   biorxiv_link: https://www.biorxiv.org/content/10.1101/141994v1
-  pdb: 5VY3, 5VY4, 5VY5
-  emdb: EMD-8741, EMD-8742, EMD-8743
-  raw_data: EMPIAR-10181, EMPIAR-10185, EMPIAR-10186
+  pdb1: 5VY3
+  pdb2: 5VY4
+  pdb3: 5VY5
+  emdb1: EMD-8741
+  emdb2: EMD-8742
+  emdb3: EMD-8743
+  raw_data1: EMPIAR-10181
+  raw_data2: EMPIAR-10185
+  raw_data3: EMPIAR-10186
   lab: Lander Lab
   lab_link: http://www.lander-lab.com
   second_lab:
@@ -230,8 +246,8 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4876856/
   biorxiv_preprint:
   biorxiv_link:
-  pdb: 5AN8
-  emdb: EMD-6455
+  pdb1: 5AN8
+  emdb1: EMD-6455
   raw_data:
   lab: Lander Lab
   lab_link: https://www.lander-lab.com
@@ -254,8 +270,8 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4749569/
   biorxiv_preprint:
   biorxiv_link:
-  pdb: 3JCK
-  emdb: EMD-6479
+  pdb1: 3JCK
+  emdb1: EMD-6479
   raw_data:
   lab: Lander Lab
   lab_link: https://www.lander-lab.com
@@ -277,8 +293,11 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4210026/
   biorxiv_preprint:
   biorxiv_link:
-  pdb: 4U99, 4U9B, 4U9G, 4U9J, 4U9K
-  emdb: EMD-6479
+  pdb1: 4U99
+  pdb2: 4U9B
+  pdb3: 4U9G
+  pdb4: 4U9J
+  pdb5: 4U9K
   raw_data:
   lab: Marletta Lab
   lab_link: https://www.marlettalab.org/
@@ -301,7 +320,13 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3203760/
   biorxiv_preprint:
   biorxiv_link:
-  pdb: 3TF8, 3TF9, 3TFA, 3TFD, 3TFE, 3TFG, 3TF1
+  pdb1: 3TF8
+  pdb2: 3TF9
+  pdb3: 3TFA
+  pdb4: 3TFD
+  pdb5: 3TFE
+  pdb6: 3TFG
+  pdb7: 3TF1
   emdb:
   raw_data:
   lab: Marletta Lab
@@ -325,7 +350,7 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2903878/
   biorxiv_preprint:
   biorxiv_link:
-  pdb: 3MVC
+  pdb1: 3MVC
   emdb:
   raw_data:
   lab: Marletta Lab
@@ -349,7 +374,8 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2867026/
   biorxiv_preprint:
   biorxiv_link:
-  pdb: 3LAH, 3LAI
+  pdb1: 3LAH
+  pdb2: 3LAI
   emdb:
   raw_data:
   lab: Marletta Lab
@@ -372,7 +398,10 @@
   pmcid_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2805860/
   biorxiv_preprint:
   biorxiv_link:
-  pdb: 2CEF 2CEH, 2CEZ, 2CFJ
+  pdb1: 2CEF
+  pdb2: 2CEH
+  pdb3: 2CEZ
+  pdb4: 2CFJ
   emdb:
   raw_data:
   lab:
