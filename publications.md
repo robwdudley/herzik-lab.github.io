@@ -129,7 +129,8 @@ layout: default
                 </ul>
         </div>
         <div class="col-md-2">
-        {% endif %}
         </div>
+    </div>
   </div>
 </div>
+{% endfor %}
