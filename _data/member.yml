@@ -7,9 +7,31 @@
   image: /assets/img/members/herzik-mark.sq.png
   orcid: https://orcid.org/0000-0001-6653-6682
   pubmed: https://www.ncbi.nlm.nih.gov/pubmed/?term=Herzik%20MA%5BAuthor%5D&cauthor=true&cauthor_uid=28991891
-  twitter:
+  twitter: @markherzik
   description: "Structural biologist perfecting his EM craft. Interested in the molecular underpinnings governing protein allostery and molecular transport."
 
+- name: Brian Cook
+  position: Postdoc and Biochemist/Biophysicist, EM in training
+  program: 
+  funding: 
+  email: bcook(at)ucsd.edu
+  image: /assets/img/members/cook-brian.sq.png
+  orcid:
+  pubmed:
+  twitter: 
+  description: "Using cryo-EM/ET and various other techniques to understand mitochondrial biology."
+
+- name: Kelly McGuire
+  position: Postdoc and Biophysicist, EM in training
+  program: 
+  funding: 
+  email: klmcguire(at)ucsd.edu
+  image: /assets/img/members/mcguire-kelly.sq.png
+  orcid:
+  pubmed:
+  twitter: 
+  description: "Developing cryo-EM methodologies to better understand dynamics in small, flexible proteins."
+  
 - name: Hoang Nguyen
   position: Graduate Student and Structural Biologist in training
   program: Chemistry and Biochemistry Graduate Program
@@ -18,6 +40,7 @@
   image: /assets/img/members/hoang-nguyen.sq.png
   orcid:
   pubmed:
+  twitter: 
   description: "Using cryo-EM and hydrogen-deuterium exchange by mass spectrometry (HDX-MS) to investigate receptor plasticity and allostery."
 
 - name: Angel Payan
@@ -31,7 +54,7 @@
   description: "Using molecular dynamics and novel cryo-EM methodologies to better understand protein conformational dynamics."
 
 - name: Nael Mousa
-  position: Undergraduate Student
+  position: Master's Student
   program: Chemistry and Biochemistry
   funding:
   image: /assets/img/members/mousa-nael.sq.png
@@ -41,12 +64,22 @@
 
 - name: Kendrick Nguyen
   position: Undergraduate Student
-  program: Chemistry and Biochemistry
+  program: Pharmacology/Chemistry and Biochemistry
   funding:
   image: /assets/img/members/nguyen-kendrick.sq.png
   orcid:
   pubmed:
   description: "Using cryo-EM and hydrogen-deuterium exchange by mass spectrometry (HDX-MS) to understand receptor specificty."
+  
+- name: Yifei He
+  position: Undergraduate Student
+  program: Pharmacology/Chemistry and Biochemistry
+  funding: 
+  image: /assets/img/members/he-yifei.sq.png
+  orcid:
+  pubmed:
+  twitter: 
+  description: "Evaluating and developing EM classification strategies."
 
 - name: Newton Herzik
   position: Scientific Consultant
