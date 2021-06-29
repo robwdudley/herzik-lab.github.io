@@ -10,6 +10,16 @@
   twitter: markherzik
   description: "Structural biologist perfecting his EM craft. Interested in the molecular underpinnings governing protein allostery and molecular transport."
 
+- name: Max Bachochin
+  position: Graduate Student and Structural Biologist in training
+  program: Chemistry and Biochemistry Graduate Program
+  funding: 
+  email: mbachoch(at)ucsd.edu
+  image: /assets/img/members/bachochin-max.sq.png
+  orcid:
+  pubmed:
+  description: "Using novel cryo-EM methodologies to better understand the regulation of mitochondrial health."
+
 - name: Brian Cook
   position: Postdoc and Biochemist/Biophysicist, EM in training
   program: 
@@ -20,6 +30,26 @@
   pubmed:
   twitter: 
   description: "Using cryo-EM/ET and various other techniques to understand mitochondrial biology."
+  
+- name: Yifei He
+  position: Undergraduate Student
+  program: Pharmacology/Chemistry and Biochemistry
+  funding: 
+  image: /assets/img/members/he-yifei.sq.png
+  orcid:
+  pubmed:
+  twitter: 
+  description: "Evaluating and developing EM classification strategies."
+  
+- name: Minh Le
+  position: Undergraduate Student
+  program: Pharmacology/Chemistry and Biochemistry
+  funding: 
+  image: /assets/img/members/le-minh.sq.png
+  orcid:
+  pubmed:
+  twitter: 
+  description: "Developing methods to assess heterogeneity in cryo-EM."
 
 - name: Kelly McGuire
   position: Postdoc and Biophysicist, EM in training
@@ -31,6 +61,25 @@
   pubmed:
   twitter: 
   description: "Developing cryo-EM methodologies to better understand dynamics in small, flexible proteins."
+
+- name: Marc Morizono
+  position: Graduate Student and Structural Biologist in training
+  program: Chemistry and Biochemistry Graduate Program
+  funding: 
+  email: mmorizon(at)ucsd.edu
+  image: /assets/img/members/morizono-marc.sq.png
+  orcid:
+  pubmed:
+  description: "Using single-particle cryo-EM to determine the molecular determinants of mitophagy."
+
+- name: Nael Mousa
+  position: Master's Student
+  program: Chemistry and Biochemistry
+  funding:
+  image: /assets/img/members/mousa-nael.sq.png
+  orcid:
+  pubmed:
+  description: "Using cryo-EM to understand post-translations modifications and their role in regulating protein biogenesis."
   
 - name: Hoang Nguyen
   position: Graduate Student and Structural Biologist in training
@@ -43,25 +92,6 @@
   twitter: 
   description: "Using cryo-EM and hydrogen-deuterium exchange by mass spectrometry (HDX-MS) to investigate receptor plasticity and allostery."
 
-- name: Angel Payan
-  position: Graduate Student and Structural Biologist in training
-  program: Chemistry and Biochemistry Graduate Program
-  funding: UCSD NIH Molecular Biophysics Training Grant
-  email: anpayan(at)ucsd.edu
-  image: /assets/img/members/payan-angel.sq.png
-  orcid:
-  pubmed:
-  description: "Using molecular dynamics and novel cryo-EM methodologies to better understand protein conformational dynamics."
-
-- name: Nael Mousa
-  position: Master's Student
-  program: Chemistry and Biochemistry
-  funding:
-  image: /assets/img/members/mousa-nael.sq.png
-  orcid:
-  pubmed:
-  description: "Using cryo-EM to understand post-translations modifications and their role in regulating protein biogenesis."
-
 - name: Kendrick Nguyen
   position: Undergraduate Student
   program: Pharmacology/Chemistry and Biochemistry
@@ -70,16 +100,6 @@
   orcid:
   pubmed:
   description: "Using cryo-EM and hydrogen-deuterium exchange by mass spectrometry (HDX-MS) to understand receptor specificty."
-  
-- name: Yifei He
-  position: Undergraduate Student
-  program: Pharmacology/Chemistry and Biochemistry
-  funding: 
-  image: /assets/img/members/he-yifei.sq.png
-  orcid:
-  pubmed:
-  twitter: 
-  description: "Evaluating and developing EM classification strategies."
 
 - name: Newton Herzik
   position: Scientific Consultant
