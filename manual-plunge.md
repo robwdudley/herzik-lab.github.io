@@ -19,7 +19,20 @@ layout: default
 </div>
 
 <img class="img-responsive center-block" src="/assets/img/Plunger1.png" alt="EM">
-      
+
+<div class="container">
+ <div class="row">
+   <div class="col-md-2">
+   </div>
+     <div class="col-md-8">
+       <h1 class="page-title">Manual Plunging Cryo-EM Grids</h1>
+        <p> *Figure 1 Traditional “blot-and-plunge” style manual plunger.* Diagram showing the manual plunger setup with the Mark VI. The bump stop sets the working height of the tweezers. The pedal pulls on the cable and releases the bar to the working plunge height. The attached tweezers hold the grid during plunging and vitrification. </p?
+      </div>
+   <div class="col-md-2">
+   </div>
+ </div>
+</div>
+ 
 <img class="img-responsive center-block" src="/assets/img/Dewar_expload.v1-01.png" alt="EM">
       
 <img class="img-responsive center-block" src="/assets/img/cryogen_timecourse.v1-01.png" alt="EM">
