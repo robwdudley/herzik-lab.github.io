@@ -18,7 +18,7 @@ layout: default
  </div>
 </div>
 
-<img class="img-responsive center-block" src="/assets/img/Plunger1.png" width="500" alt="EM">
+<img class="img-responsive center-block" src="/assets/img/Plunger1.png" width="200" alt="EM">
 
 <div class="container">
  <div class="row">
@@ -30,7 +30,7 @@ layout: default
  </div>
 </div>
  
-<img class="img-responsive center-block" src="/assets/img/Dewar_expload.v1-01.png" alt="EM">
+<img class="img-responsive center-block" src="/assets/img/Dewar_expload.v1-01.png" width="200" alt="EM">
       
 <div class="container">
  <div class="row">
@@ -42,7 +42,7 @@ layout: default
  </div>
 </div>
  
-<img class="img-responsive center-block" src="/assets/img/cryogen_timecourse.v1-01.png" alt="EM">
+<img class="img-responsive center-block" src="/assets/img/cryogen_timecourse.v1-01.png" width="200" alt="EM">
       
 <div class="container">
  <div class="row">
