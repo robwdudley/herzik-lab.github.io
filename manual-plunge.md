@@ -20,7 +20,7 @@ layout: default
  </div>
 </div>
 
-<img class="img-responsive center-block" src="/assets/img/Plunger1.png" width="200" alt="EM">
+<img class="img-responsive center-block" src="/assets/img/Plunger2.png" width="200" alt="EM">
 
 <div class="container">
  <div class="row">
