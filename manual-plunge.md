@@ -15,8 +15,6 @@ layout: default
       <p> The manual plunger (Figure 1) consists of multiple simple components: the plunging arm; grid clamping tweezers, which are held in place with tape; a stand to hold the plunging arm in place with the bar clamp; a pedal cable attached to a foot pedal that releases the bar clamp by pulling on the cable when pressed; a bump stop that stops the plunging arm and thus establishes the tweezers at a set working height; a dewar clamp that holds the blue Styrofoam dewar (Spear Lab FD-500) in place for plunge freezing; and the dewar platform for the ethane cryogen and grid storage. </p>
       <p> Importantly, the manual plunger has minimal moving parts that do not require continuous and costly maintenance and our new Mark V dewar platform design provides the user more control over the grid freezing process by providing quick access to the EM grids, effortless adjustment of blot time and easy preparation of the ethane (or ethane:propane) cryogen. This simple design can be easily 3D printed using readily available resources and allows for future customization depending on the needs of the end user. Many of the components were designed in a 3D modeling software, 3D printed at a low cost, and used and operated nearly free of charge. The Mark V manual plunger provides reproducible grid freezing results at both low upfront cost and minimal maintenance and serves as an easily accessible alternative to robotic blotters.<p>
      </div>
-   <div class="col-md-2">
-   </div>
  </div>
 </div>
 
