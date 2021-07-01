@@ -40,7 +40,7 @@ layout: default
    <div class="col-md-2">
    </div>
      <div class="col-md-8">
-      <p> <b>Figure 2 Mark VI dewar platform design. </b> Schematic diagram of the Mark VI plunge freezing dewar detailing critical components. The platform base establishes the height of the dewar platform. The Platform Support rests on the Platform Base and houses the Brass Ethane Vessel. The Spinning Grid Storage Platform houses grid boxes for the storage of EM grids that have been prepared and flash frozen. Shown on the <i>left</i> is a design for the use of ethane cryogen and the design on the <i>right</i>, with holes engineered in the Ethane Vessel Holder, is designed to work with a ethane:propane (50:50) mix.  </p>
+      <p> <b>Figure 2 Mark V dewar platform design. </b> Schematic diagram of the Mark V plunge freezing dewar detailing critical components. The platform base establishes the height of the dewar platform. The Platform Support rests on the Platform Base and houses the Brass Ethane Vessel. The Spinning Grid Storage Platform houses grid boxes for the storage of EM grids that have been prepared and flash frozen. Shown on the <i>left</i> is a design for the use of ethane cryogen and the design on the <i>right</i>, with holes engineered in the Ethane Vessel Holder, is designed to work with a ethane:propane (50:50) mix.  </p>
       </div>
  </div>
 </div>
