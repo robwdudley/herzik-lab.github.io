@@ -18,8 +18,18 @@
   image: /assets/img/members/bachochin-max.sq.png
   orcid:
   pubmed:
-  description: "Using novel cryo-EM methodologies to better understand the regulation of mitochondrial health."
-
+  description: "Using novel cryoEM methodologies to better understand the regulation of mitochondrial health."
+  
+- name: Natalie Birouty
+  position: Undergraduate Student
+  program: Pharmacology/Chemistry and Biochemistry
+  funding: 
+  image: /assets/img/members/birouty-natalie.sq.png
+  orcid:
+  pubmed:
+  twitter: 
+  description: "Developing recombinant expression and purification strategies for critical mitochondrial import complexes."
+  
 - name: Brian Cook
   position: Postdoc and Biochemist/Biophysicist, EM in training
   program: 
@@ -29,17 +39,16 @@
   orcid:
   pubmed:
   twitter: 
-  description: "Using cryo-EM/ET and various other techniques to understand mitochondrial biology."
-  
-- name: Yifei He
-  position: Undergraduate Student
-  program: Pharmacology/Chemistry and Biochemistry
-  funding: 
-  image: /assets/img/members/he-yifei.sq.png
+  description: "Using cryoEM/ET and various other techniques to understand mitochondrial biology."
+
+- name: Armin Foroughi
+  position: Data Scientist
+  program: Artificial Intelligence
+  funding:
+  image: /assets/img/members/foroughi-armin.sq.png
   orcid:
   pubmed:
-  twitter: 
-  description: "Evaluating and developing EM classification strategies."
+  description: "Developing machine learning algorithms to quantify heterogeneity in cryoEM data."
   
 - name: Minh Le
   position: Undergraduate Student
@@ -49,7 +58,7 @@
   orcid:
   pubmed:
   twitter: 
-  description: "Developing methods to assess heterogeneity in cryo-EM."
+  description: "Developing recombinant expression and purification strategies for mitochondrial protein receptor complexes."
 
 - name: Kelly McGuire
   position: Postdoc and Biophysicist, EM in training
@@ -60,46 +69,36 @@
   orcid:
   pubmed:
   twitter: 
-  description: "Developing cryo-EM methodologies to better understand dynamics in small, flexible proteins."
+  description: "Developing cryoEM methodologies to better understand dynamics in small, flexible proteins."
 
 - name: Marc Morizono
   position: Graduate Student and Structural Biologist in training
   program: Chemistry and Biochemistry Graduate Program
   funding: 
   email: mmorizon(at)ucsd.edu
-  image: /assets/img/members/morizono-marc.sq.png
+  image: /assets/img/members/morizono-marc.sq2.png
   orcid:
   pubmed:
-  description: "Using single-particle cryo-EM to determine the molecular determinants of mitophagy."
+  description: "Using single-particle cryoEM to determine the molecular determinants of mitophagy."
 
-- name: Nael Mousa
-  position: Master's Student
+- name: Sarah Narehood
+  position: Graduate Student and Structural Biologist in training
   program: Chemistry and Biochemistry
   funding:
-  image: /assets/img/members/mousa-nael.sq.png
+  image: /assets/img/members/narehood-sarah.sq.png
   orcid:
   pubmed:
-  description: "Using cryo-EM to understand post-translations modifications and their role in regulating protein biogenesis."
-  
-- name: Hoang Nguyen
-  position: Graduate Student and Structural Biologist in training
-  program: Chemistry and Biochemistry Graduate Program
-  funding: UCSD NIH Molecular Biophysics Training Grant
-  email: hon005(at)ucsd.edu
-  image: /assets/img/members/hoang-nguyen.sq.png
-  orcid:
-  pubmed:
-  twitter: 
-  description: "Using cryo-EM and hydrogen-deuterium exchange by mass spectrometry (HDX-MS) to investigate receptor plasticity and allostery."
-
-- name: Kendrick Nguyen
+  description: "Developing cryoEM methodologies to determine the structural mechanical coupling of ATP-dependent metalloenzymes."
+ 
+ - name: Emily Wei
   position: Undergraduate Student
-  program: Pharmacology/Chemistry and Biochemistry
+  program: Chemistry and Biochemistry
   funding:
-  image: /assets/img/members/nguyen-kendrick.sq.png
+  image: /assets/img/members/wei-emily.sq.png
   orcid:
   pubmed:
-  description: "Using cryo-EM and hydrogen-deuterium exchange by mass spectrometry (HDX-MS) to understand receptor specificty."
+  description: "Developing cryoEM sample preparation devices using custom 3-D printer technologies."
+  
 
 - name: Newton Herzik
   position: Scientific Consultant
